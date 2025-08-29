@@ -1,0 +1,621 @@
+!SESSION 2025-08-01 08:23:51.615 -----------------------------------------------
+eclipse.buildId=4.22.1.202405011620
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+This is a continuation of log file D:\BackEnd\.metadata\.bak_0.log
+Created Time: 2025-08-01 08:24:08.675
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 08:24:09.995
+!MESSAGE Boot project ADDED: Register_Login
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 08:24:10.953
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-01 08:24:10.956
+!MESSAGE Started Boot LS process
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2025-08-01 09:09:25.682
+!MESSAGE No repository found at http://download.eclipse.org/technology/m2e/releases/.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2025-08-01 09:09:29.919
+!MESSAGE Server returned lastModified <= 0 for https://raw.githubusercontent.com/thymeleaf/thymeleaf-extras-eclipse-plugin/update-site/3.1.0/content.jar
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2025-08-01 09:10:01.923
+!MESSAGE No repository found at http://dl.bintray.com/testng-team/testng-p2-release/.
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-02 08:31:54.545
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.d.ts at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.d.ts
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-02 08:31:54.547
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js.ts at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js.ts
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-02 08:31:54.547
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js.tsx at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js.tsx
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-02 08:31:54.548
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-02 08:31:54.548
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.tsx at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.tsx
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-02 08:31:54.548
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.ts at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.ts
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-02 08:31:54.548
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js.d.ts at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js.d.ts
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-02 08:31:54.549
+!MESSAGE [Log]	Unable to load library file:///D:/BackEnd/Register_Login/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\BackEnd\Register_Login\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-02 08:31:54.550
+!MESSAGE [Log]	Unable to load library file:///D:/BackEnd/Register_Login/src/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\BackEnd\Register_Login\src\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-02 08:31:54.550
+!MESSAGE [Log]	Unable to load library file:///D:/BackEnd/Register_Login/src/main/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\BackEnd\Register_Login\src\main\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-02 08:31:54.551
+!MESSAGE [Log]	Unable to load library file:///D:/BackEnd/Register_Login/src/main/resources/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\BackEnd\Register_Login\src\main\resources\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-02 08:31:54.551
+!MESSAGE [Log]	Unable to load library file:///D:/BackEnd/Register_Login/src/main/resources/templates/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\BackEnd\Register_Login\src\main\resources\templates\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-02 08:31:54.552
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js/index.d.ts at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js\index.d.ts
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-02 08:31:54.553
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js.jsx at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js.jsx
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-02 08:31:54.553
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js.js at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js.js
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-02 08:31:54.554
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.jsx at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.jsx
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-02 08:31:54.554
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-02 08:31:54.555
+!MESSAGE [Log]	Unable to load library file:///D:/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-02 08:31:54.555
+!MESSAGE [Log]	Unable to load library file:///D:/BackEnd/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\BackEnd\node_modules\@types\https:\package.json
+!SESSION 2025-08-03 05:49:20.385 -----------------------------------------------
+eclipse.buildId=4.22.1.202405011620
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-08-03 05:49:24.454
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-03 05:49:24.708
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-08-03 05:49:28.871
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-03 05:49:29.459
+!MESSAGE Logback config file: D:\BackEnd\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.ui 2 0 2025-08-03 05:49:29.880
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-08-03 05:49:29.880
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2025-08-03 05:49:30.344
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-08-03 05:49:30.344
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-08-03 05:49:35.490
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\ASUS'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-03 05:49:35.863
+!MESSAGE Boot project ADDED: Register_Login
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-03 05:49:35.864
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-03 05:49:35.869
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-03 05:49:35.911
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.11.v20240426-1830\jre\bin\javaw.exe
+-cp
+D:\Softwares\sts-4.22.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.54.0.202405011602\servers\spring-boot-language-server\BOOT-INF\classes;D:\Softwares\sts-4.22.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.54.0.202405011602\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:D:\Softwares\sts-4.22.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.54.0.202405011602\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=D:/BackEnd/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1754180375909
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-03 05:49:35.911
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-03 05:49:35.930
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 16140
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-03 05:49:38.463
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js.tsx at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js.tsx
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-03 05:49:38.464
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.ts at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.ts
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-03 05:49:38.464
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-03 05:49:38.465
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js.d.ts at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js.d.ts
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-03 05:49:38.465
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.tsx at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.tsx
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-03 05:49:38.466
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js.ts at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js.ts
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-03 05:49:38.467
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.d.ts at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.d.ts
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-03 05:49:38.467
+!MESSAGE [Log]	Unable to load library file:///D:/BackEnd/Register_Login/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\BackEnd\Register_Login\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-03 05:49:38.468
+!MESSAGE [Log]	Unable to load library file:///D:/BackEnd/Register_Login/src/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\BackEnd\Register_Login\src\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-03 05:49:38.468
+!MESSAGE [Log]	Unable to load library file:///D:/BackEnd/Register_Login/src/main/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\BackEnd\Register_Login\src\main\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-03 05:49:38.468
+!MESSAGE [Log]	Unable to load library file:///D:/BackEnd/Register_Login/src/main/resources/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\BackEnd\Register_Login\src\main\resources\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-03 05:49:38.469
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js/index.d.ts at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js\index.d.ts
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-03 05:49:38.470
+!MESSAGE [Log]	Unable to load library file:///D:/BackEnd/Register_Login/src/main/resources/templates/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\BackEnd\Register_Login\src\main\resources\templates\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-03 05:49:38.470
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js.jsx at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js.jsx
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-03 05:49:38.471
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js.js at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js.js
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-03 05:49:38.471
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.jsx at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.jsx
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-03 05:49:38.472
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-03 05:49:38.472
+!MESSAGE [Log]	Unable to load library file:///D:/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-03 05:49:38.473
+!MESSAGE [Log]	Unable to load library file:///D:/BackEnd/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\BackEnd\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2025-08-03 05:52:39.989
+!MESSAGE No repository found at http://download.eclipse.org/technology/m2e/releases/.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2025-08-03 05:52:43.819
+!MESSAGE Server returned lastModified <= 0 for https://raw.githubusercontent.com/thymeleaf/thymeleaf-extras-eclipse-plugin/update-site/3.1.0/content.jar
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2025-08-03 05:53:17.274
+!MESSAGE No repository found at http://dl.bintray.com/testng-team/testng-p2-release/.
+!SESSION 2025-08-09 09:34:51.328 -----------------------------------------------
+eclipse.buildId=4.22.1.202405011620
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-08-09 09:34:54.285
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-09 09:34:54.539
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-08-09 09:34:58.771
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-09 09:34:59.345
+!MESSAGE Logback config file: D:\BackEnd\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.ui 2 0 2025-08-09 09:34:59.792
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-08-09 09:34:59.792
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2025-08-09 09:35:00.197
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-08-09 09:35:00.197
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-08-09 09:35:05.423
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\ASUS'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-09 09:35:05.632
+!MESSAGE Boot project ADDED: Register_Login
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-09 09:35:05.633
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-09 09:35:05.637
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-09 09:35:05.665
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.11.v20240426-1830\jre\bin\javaw.exe
+-cp
+D:\Softwares\sts-4.22.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.54.0.202405011602\servers\spring-boot-language-server\BOOT-INF\classes;D:\Softwares\sts-4.22.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.54.0.202405011602\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:D:\Softwares\sts-4.22.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.54.0.202405011602\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=D:/BackEnd/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1754712305664
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-09 09:35:05.666
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-09 09:35:05.687
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 14712
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-09 09:35:07.977
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.d.ts at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.d.ts
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-09 09:35:07.978
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js.ts at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js.ts
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-09 09:35:07.978
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-09 09:35:07.979
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js.d.ts at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js.d.ts
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-09 09:35:07.980
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js.tsx at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js.tsx
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-09 09:35:07.980
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.ts at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.ts
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-09 09:35:07.981
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.tsx at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.tsx
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-09 09:35:07.981
+!MESSAGE [Log]	Unable to load library file:///D:/BackEnd/Register_Login/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\BackEnd\Register_Login\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-09 09:35:07.982
+!MESSAGE [Log]	Unable to load library file:///D:/BackEnd/Register_Login/src/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\BackEnd\Register_Login\src\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-09 09:35:07.982
+!MESSAGE [Log]	Unable to load library file:///D:/BackEnd/Register_Login/src/main/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\BackEnd\Register_Login\src\main\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-09 09:35:07.983
+!MESSAGE [Log]	Unable to load library file:///D:/BackEnd/Register_Login/src/main/resources/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\BackEnd\Register_Login\src\main\resources\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-09 09:35:07.984
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js/index.d.ts at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js\index.d.ts
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-09 09:35:07.984
+!MESSAGE [Log]	Unable to load library file:///D:/BackEnd/Register_Login/src/main/resources/templates/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\BackEnd\Register_Login\src\main\resources\templates\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-09 09:35:07.985
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js.jsx at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js.jsx
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-09 09:35:07.985
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js.js at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js.js
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-09 09:35:07.986
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.jsx at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.jsx
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-09 09:35:07.986
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-09 09:35:07.987
+!MESSAGE [Log]	Unable to load library file:///D:/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-09 09:35:07.988
+!MESSAGE [Log]	Unable to load library file:///D:/BackEnd/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\BackEnd\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2025-08-09 10:08:26.996
+!MESSAGE No repository found at http://download.eclipse.org/technology/m2e/releases/.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2025-08-09 10:08:30.853
+!MESSAGE Server returned lastModified <= 0 for https://raw.githubusercontent.com/thymeleaf/thymeleaf-extras-eclipse-plugin/update-site/3.1.0/content.jar
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2025-08-09 10:09:03.113
+!MESSAGE No repository found at http://dl.bintray.com/testng-team/testng-p2-release/.
+!SESSION 2025-08-13 06:19:40.384 -----------------------------------------------
+eclipse.buildId=4.22.1.202405011620
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-08-13 06:19:43.994
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-13 06:19:44.378
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-08-13 06:19:48.849
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-13 06:19:49.516
+!MESSAGE Logback config file: D:\BackEnd\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.ui 2 0 2025-08-13 06:19:50.107
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-08-13 06:19:50.107
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2025-08-13 06:19:50.612
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-08-13 06:19:50.612
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-08-13 06:19:57.035
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\ASUS'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-13 06:19:57.367
+!MESSAGE Boot project ADDED: Register_Login
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-13 06:19:57.368
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-13 06:19:57.372
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-13 06:19:57.413
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.11.v20240426-1830\jre\bin\javaw.exe
+-cp
+D:\Softwares\sts-4.22.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.54.0.202405011602\servers\spring-boot-language-server\BOOT-INF\classes;D:\Softwares\sts-4.22.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.54.0.202405011602\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:D:\Softwares\sts-4.22.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.54.0.202405011602\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=D:/BackEnd/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1755046197410
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-13 06:19:57.415
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-13 06:19:57.440
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 11180
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-13 06:20:01.049
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js.tsx at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js.tsx
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-13 06:20:01.050
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.d.ts at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.d.ts
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-13 06:20:01.050
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-13 06:20:01.051
+!MESSAGE [Log]	Unable to load library file:///D:/BackEnd/Register_Login/src/main/resources/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\BackEnd\Register_Login\src\main\resources\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-13 06:20:01.052
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.tsx at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.tsx
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-13 06:20:01.053
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js.d.ts at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js.d.ts
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-13 06:20:01.054
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js.ts at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js.ts
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-13 06:20:01.057
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.ts at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.ts
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-13 06:20:01.060
+!MESSAGE [Log]	Unable to load library file:///D:/BackEnd/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\BackEnd\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-13 06:20:01.060
+!MESSAGE [Log]	Unable to load library file:///D:/BackEnd/Register_Login/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\BackEnd\Register_Login\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-13 06:20:01.061
+!MESSAGE [Log]	Unable to load library file:///D:/BackEnd/Register_Login/src/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\BackEnd\Register_Login\src\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-13 06:20:01.062
+!MESSAGE [Log]	Unable to load library file:///D:/BackEnd/Register_Login/src/main/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\BackEnd\Register_Login\src\main\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-13 06:20:01.062
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js/index.d.ts at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js\index.d.ts
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-13 06:20:01.063
+!MESSAGE [Log]	Unable to load library file:///D:/BackEnd/Register_Login/src/main/resources/templates/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\BackEnd\Register_Login\src\main\resources\templates\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-13 06:20:01.063
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js.jsx at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js.jsx
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-13 06:20:01.065
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js.js at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js.js
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-13 06:20:01.066
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.jsx at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.jsx
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-13 06:20:01.068
+!MESSAGE [Log]	Unable to load library https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\https:\cdn.jsdelivr.net\npm\@n8n\chat\dist\chat.bundle.es.js
+
+!ENTRY org.eclipse.lsp4e 1 0 2025-08-13 06:20:01.072
+!MESSAGE [Log]	Unable to load library file:///D:/node_modules/@types/https:/package.json at D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.wildwebdeveloper_1.1.4.202311211923\node_modules\typescript\lib\file:\D:\node_modules\@types\https:\package.json
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2025-08-13 06:57:49.141
+!MESSAGE No repository found at http://download.eclipse.org/technology/m2e/releases/.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2025-08-13 06:57:53.065
+!MESSAGE Server returned lastModified <= 0 for https://raw.githubusercontent.com/thymeleaf/thymeleaf-extras-eclipse-plugin/update-site/3.1.0/content.jar
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2025-08-13 06:58:24.236
+!MESSAGE No repository found at http://dl.bintray.com/testng-team/testng-p2-release/.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-16 19:46:58.630
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.11.v20240426-1830\jre\bin\javaw.exe
+-cp
+D:\Softwares\sts-4.22.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.54.0.202405011602\servers\spring-boot-language-server\BOOT-INF\classes;D:\Softwares\sts-4.22.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.54.0.202405011602\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:D:\Softwares\sts-4.22.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.54.0.202405011602\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=D:/BackEnd/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1755353818628
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-16 19:46:58.632
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.eclipse.lsp4e 4 0 2025-08-16 19:46:58.634
+!MESSAGE ExecutionException occurred during shutdown of EndpointProxy for org.eclipse.lsp4j.jsonrpc.RemoteEndpoint@63fb28ac
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: The pipe is being closed
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$10(LanguageServerWrapper.java:554)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+Caused by: org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: The pipe is being closed
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$3(LanguageServerWrapper.java:316)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.request(RemoteEndpoint.java:171)
+	at org.eclipse.lsp4j.jsonrpc.services.EndpointProxy.invoke(EndpointProxy.java:91)
+	at jdk.proxy20/jdk.proxy20.$Proxy57.shutdown(Unknown Source)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$10(LanguageServerWrapper.java:552)
+	... 7 more
+Caused by: java.io.IOException: The pipe is being closed
+	at java.base/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base/java.io.FileOutputStream.write(FileOutputStream.java:349)
+	at java.base/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:81)
+	at java.base/java.io.BufferedOutputStream.flush(BufferedOutputStream.java:142)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:69)
+	... 12 more
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-16 19:46:58.639
+!MESSAGE DelegatingStreamConnectionProvider - Stopping Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-16 19:46:58.642
+!MESSAGE Stopped org.springframework.tooling.boot.ls LS process 11180
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-16 19:46:58.643
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 25452
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-08-16 21:50:11.873
+!MESSAGE Unknown or unsupported source locator org.eclipse.jdt.internal.launching.sourcelookup.advanced.AdvancedSourceLookupDirector
+!SESSION 2025-08-29 07:16:48.901 -----------------------------------------------
+eclipse.buildId=4.22.1.202405011620
+java.version=17.0.11
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-08-29 07:16:53.003
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-29 07:16:53.243
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-29 07:16:56.840
+!MESSAGE Logback config file: D:\BackEnd\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.ui 2 0 2025-08-29 07:16:57.308
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-08-29 07:16:57.309
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2025-08-29 07:16:57.725
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-08-29 07:16:57.725
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-08-29 07:17:03.855
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\ASUS'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-29 07:17:04.136
+!MESSAGE Boot project ADDED: Register_Login
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-29 07:17:04.137
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-29 07:17:04.140
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-29 07:17:04.170
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+D:\Softwares\sts-4.22.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.11.v20240426-1830\jre\bin\javaw.exe
+-cp
+D:\Softwares\sts-4.22.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.54.0.202405011602\servers\spring-boot-language-server\BOOT-INF\classes;D:\Softwares\sts-4.22.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.54.0.202405011602\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:D:\Softwares\sts-4.22.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.54.0.202405011602\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=D:/BackEnd/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1756432024169
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-29 07:17:04.171
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-08-29 07:17:04.195
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 11372
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-08-29 07:17:13.278
+!MESSAGE Classpath changed for project: Register_Login
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2025-08-29 07:21:01.616
+!MESSAGE No repository found at http://download.eclipse.org/technology/m2e/releases/.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2025-08-29 07:21:05.008
+!MESSAGE Server returned lastModified <= 0 for https://raw.githubusercontent.com/thymeleaf/thymeleaf-extras-eclipse-plugin/update-site/3.1.0/content.jar
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2025-08-29 07:21:34.572
+!MESSAGE No repository found at http://dl.bintray.com/testng-team/testng-p2-release/.
